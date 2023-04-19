@@ -1,0 +1,11 @@
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csproj.AssemblyReference.cache
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.FractionCalculator.resources
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.Properties.Resources.resources
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csproj.GenerateResource.cache
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\Drashti\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.pdb
